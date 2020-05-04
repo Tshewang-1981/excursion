@@ -19,3 +19,26 @@ body {
     font-family: Verdana;
     font-weight: normal;
 }
+
+.second-heading {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    font-weight: normal;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
+    font-weight: normal;
+}
